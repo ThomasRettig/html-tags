@@ -1,0 +1,11 @@
+{
+  "name": "html-tags",
+  "version": "1.0.0",
+  "description": "An inexhaustive list of HTML tags",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Rettig",
+  "license": "MIT"
+}
